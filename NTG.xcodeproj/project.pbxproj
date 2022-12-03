@@ -11,6 +11,7 @@
 		9897C17D2938B18E00B7685D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9897C17C2938B18E00B7685D /* ContentView.swift */; };
 		9897C17F2938B18F00B7685D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9897C17E2938B18F00B7685D /* Assets.xcassets */; };
 		9897C1822938B18F00B7685D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9897C1812938B18F00B7685D /* Preview Assets.xcassets */; };
+		9897C1892938B20900B7685D /* RaceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9897C1882938B20900B7685D /* RaceModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9897C17C2938B18E00B7685D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9897C17E2938B18F00B7685D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9897C1812938B18F00B7685D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9897C1882938B20900B7685D /* RaceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				9897C17A2938B18E00B7685D /* NTGApp.swift */,
 				9897C17C2938B18E00B7685D /* ContentView.swift */,
+				9897C1882938B20900B7685D /* RaceModel.swift */,
 				9897C17E2938B18F00B7685D /* Assets.xcassets */,
 				9897C1802938B18F00B7685D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9897C1892938B20900B7685D /* RaceModel.swift in Sources */,
 				9897C17D2938B18E00B7685D /* ContentView.swift in Sources */,
 				9897C17B2938B18E00B7685D /* NTGApp.swift in Sources */,
 			);

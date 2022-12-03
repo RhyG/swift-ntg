@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>B78A3EFC-66FB-4CC9-9578-EC84CB0EBB74</key>
+		<key>199DC2A7-3219-4E9D-96A2-0962C0C50D0C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B78A3EFC-66FB-4CC9-9578-EC84CB0EBB74.xcactivitylog</string>
+			<string>199DC2A7-3219-4E9D-96A2-0962C0C50D0C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,97 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9yaHlzXC9Eb2N1bWVudHNcL3Byb2plY3RzXC9zd2lmdFwvTlRHXC9OVEcueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>691581328.35835397</real>
+			<real>691581449.96310699</real>
+			<key>timeStoppedRecording</key>
+			<real>691581451.54524899</real>
+			<key>title</key>
+			<string>Build for Previews NTG</string>
+			<key>uniqueIdentifier</key>
+			<string>199DC2A7-3219-4E9D-96A2-0962C0C50D0C</string>
+		</dict>
+		<key>51ACF697-868C-4C0E-B8E5-58C3AB5B43AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51ACF697-868C-4C0E-B8E5-58C3AB5B43AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvcmh5c1wvRG9jdW1lbnRzXC9wcm9qZWN0c1wvc3dpZnRcL05UR1wvTlRHLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiOTg5N0MxNzYyOTM4QjE4RTAwQjc2ODVEIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>691581449.96310699</real>
+			<key>timeStoppedRecording</key>
+			<real>691581451.54524899</real>
+			<key>title</key>
+			<string>Build for Previews NTG</string>
+			<key>uniqueIdentifier</key>
+			<string>51ACF697-868C-4C0E-B8E5-58C3AB5B43AA</string>
+		</dict>
+		<key>C007C77B-71BF-407F-B4EB-1E6C53835A6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C007C77B-71BF-407F-B4EB-1E6C53835A6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>691581449.96310699</real>
+			<key>timeStoppedRecording</key>
+			<real>691581451.54524899</real>
+			<key>title</key>
+			<string>Build for Previews NTG</string>
+			<key>uniqueIdentifier</key>
+			<string>C007C77B-71BF-407F-B4EB-1E6C53835A6F</string>
+		</dict>
+		<key>F5BD7C4D-B881-46C3-8A34-660E92668648</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5BD7C4D-B881-46C3-8A34-660E92668648.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvcmh5c1wvRG9jdW1lbnRzXC9wcm9qZWN0c1wvc3dpZnRcL05UR1wvTlRHLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiOTg5N0MxNzYyOTM4QjE4RTAwQjc2ODVEIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>691581449.96310699</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
 			<string>Build for Previews NTG</string>
 			<key>uniqueIdentifier</key>
-			<string>B78A3EFC-66FB-4CC9-9578-EC84CB0EBB74</string>
+			<string>F5BD7C4D-B881-46C3-8A34-660E92668648</string>
 		</dict>
 	</dict>
 </dict>
